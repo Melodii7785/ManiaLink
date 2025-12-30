@@ -1,1 +1,95 @@
-<!-- please wait im working on it -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<manialink version="3" id="melodii.home">
+
+  <!-- cloubs :3 -->
+  <quad
+    pos="0 0"
+    z-index="0"
+    size="320 180"
+    bgcolor="00000000"
+  />
+
+  <!-- header panel -->
+  <quad
+    pos="0 70"
+    z-index="1"
+    size="280 30"
+    bgcolor="000000CC"
+  />
+
+  <label
+    pos="-130 76"
+    z-index="2"
+    text="melodii.net"
+    textsize="8"
+    textcolor="FFFFFFFF"
+  />
+
+  <label
+    pos="-130 66"
+    z-index="2"
+    text="official menu internet"
+    textsize="4"
+    textcolor="CCCCCCFF"
+  />
+
+  <!-- polyfox image -->
+  <quad
+    pos="115 68"
+    z-index="2"
+    size="20 20"
+    image="file://Media/Manialinks/polyfox.png"
+  />
+
+  <!-- main panel -->
+  <quad
+    pos="0 10"
+    z-index="1"
+    size="260 90"
+    bgcolor="000000BB"
+  />
+
+  <label
+    pos="-120 50"
+    z-index="2"
+    text="stuff i made"
+    textsize="6"
+    textcolor="FFFFFFFF"
+  />
+
+  <label
+    pos="-120 40"
+    z-index="2"
+    text="- games\n- weird code\n- bad ideas\n- worse ideas"
+    textsize="4"
+    textcolor="CCCCCCFF"
+  />
+
+  <!-- FAKE LEAK BUTTON -->
+  <quad
+    pos="0 -20"
+    z-index="2"
+    size="240 22"
+    bgcolor="CC3333EE"
+  />
+
+  <label
+    pos="0 -20"
+    z-index="3"
+    halign="center"
+    text="TrackMania³ and ManiaPlanet² LEAKED!!! click to download BETA!!!!!!!!!"
+    textsize="4"
+    textcolor="FFFFFFFF"
+  />
+
+  <!-- prank disclaimer -->
+  <label
+    pos="0 -40"
+    z-index="2"
+    halign="center"
+    text="lol loser xdx"
+    textsize="3"
+    textcolor="AAAAAAFF"
+  />
+
+</manialink>
